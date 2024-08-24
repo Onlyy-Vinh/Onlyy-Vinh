@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=Onlyy-Vinh&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 <h1>
-  Nguyễn Lê Phúc Vinh(NLPV2011)
+  Nguyễn Lê Phúc Vinh(Onlyy-Vinh)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -34,11 +34,11 @@
 ---
 
 # 🔥My Github Streak 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NLPV2011&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Onlyy-Vinh&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 # 🌏 Top Used Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NLPV2011&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onlyy-Vinh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
